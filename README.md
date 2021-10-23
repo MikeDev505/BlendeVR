@@ -1,4 +1,4 @@
-# BlendeVR - how to mix recorder 3D 180 VR video with 3D rendered objects - vuze xr
+# Blender VR - how to mix recorder 3D 180 VR video with 3D rendered objects - vuze xr
 
 1 Get video from camera
 
